@@ -1,6 +1,6 @@
 # Emotion_Classification_of_Chinese_Song_Lyrics
 
-該專案主題是針對魔境歌詞網歌詞資料，隨機選取 4020 首歌，利用語言學特徵進行歌詞情感分類。 
+該專案為 Yun Biao & Ying-Pei Yu 的計算語言學期末報告。主題是針對魔境歌詞網歌詞資料，隨機選取 4020 首歌，利用語言學特徵進行歌詞情感分類。 
 本資料夾結構如下：
 ```bash
 ├── Emotion_Classification_of_Chinese_Song_Lyrics
@@ -61,3 +61,7 @@ tokenized_labeled_lyrics.csv：4020 首已標記之歌詞斷詞檔案
 tokenized_rest_lyrics_for_embeddings.csv：4020 首已標記之歌詞以外之所有歌曲斷詞檔案
 
 word_embeddings.txt：自製歌詞詞嵌入（由於檔案過大問題，在此不附上）
+
+### 書面報告
+
+Deep_Learning_Based_Emotion_Classification_of_Chinese_Song_Lyrics.pdf：書面報告
