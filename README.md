@@ -58,7 +58,7 @@ text_label_data.csv：包含標記和斷詞之檔案
 
 tokenized_labeled_lyrics.csv：4020 首已標記之歌詞斷詞檔案
 
-tokenized_rest_lyrics_for_embeddings.csv：4020 首已標記之歌詞以外之所有歌曲斷詞檔案
+tokenized_rest_lyrics_for_embeddings.csv：4020 首已標記之歌詞以外之所有歌曲斷詞檔案（由於檔案過大問題，在此不附上）
 
 word_embeddings.txt：自製歌詞詞嵌入（由於檔案過大問題，在此不附上）
 
